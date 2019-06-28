@@ -1,0 +1,5 @@
+xilinx rtfpga
+WARNING: [Synth 8-3331] design Parser_t_accept has unconnected port reset
+WARNING: [Synth 8-3331] design Parser_t_accept has unconnected port level[2]
+WARNING: [Synth 8-3331] design Parser_t_accept has unconnected port level[1]
+WARNING: [Synth 8-3331] design Parser_t_accept has unconnected port level[0]
