@@ -1,7 +1,0 @@
-xilinx rtfpga
-INFO: [Synth 8-5546] ROM "empty" won't be mapped to RAM because it is too sparse
-INFO: [Synth 8-5546] ROM "full" won't be mapped to RAM because it is too sparse
-WARNING: [Synth 8-3331] design Deparser_t_EngineStage_0_Editor_DataBuffer_BarrelShifterDown has unconnected port reset
-WARNING: [Synth 8-3331] design Deparser_t_EngineStage_0_Editor_TupleShift_BidirShifterUpdate_UniShifter2X has unconnected port reset
-WARNING: [Synth 8-3331] design Deparser_t_EngineStage_0_Editor_TupleShift_BidirShifterUpdate_UniShifter2X__1 has unconnected port reset
-WARNING: [Synth 8-3331] design Deparser_t_EngineStage_0_Editor_DataMux has unconnected port reset

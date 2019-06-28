@@ -1,7 +1,0 @@
-
-
-liste des fichiers:
-compteur_1.p4 : compteur extern écrit résultat dans une entête. compte IPv4 packets
-forward_eth_ipv6_tcp.p4 : programme de base
-
-compteur_mod : compte le nombre de packet IPV4 et modifie leur payload avec les valeur courante du compteur
